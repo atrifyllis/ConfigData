@@ -1,1 +1,9 @@
+---
+spring:
+  profile: default-nouns
 words: boat,book,vote,seat,backpack,partition,groundhog
+
+---
+spring:
+  profile: alt-nouns
+words: icicle,refrigerator,blizzard,snowball
